@@ -1,0 +1,37 @@
+form{
+    width: 95%;
+    margin: auto;
+   padding: 5 0;
+    border-bottom: 3px solid blue;
+    background:blue;
+    text-align: center;
+
+}
+
+.box{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 65%;
+    background-color: whitesmoke;
+    outline: none;
+    color: black;
+    font-size: 75%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#form label{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    padding: 0 10px 0 0;
+}
+#button{
+    border: none;
+    width: 60%;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+   color: white;
+   background: black;
+   margin: 0 0 0 55px;
+}
+
